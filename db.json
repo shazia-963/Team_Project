@@ -1,0 +1,70 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "name": "Ansar",
+      "city": "Amristar",
+      "mobile": "04567891230"
+    },
+    {
+      "id": 2,
+      "name": "Ansar Ali",
+      "city": "Kadapa",
+      "mobile": "96985874112"
+    },
+    {
+      "id": 3,
+      "name": "Banu",
+      "city": "Cochin",
+      "mobile": "09874563210"
+    },
+    {
+      "id": 4,
+      "name": "Anjum",
+      "city": "Hyderbad",
+      "mobile": "04567891230"
+    },
+    {
+      "id": 5,
+      "name": "Faheem",
+      "city": "Delhi",
+      "mobile": "04567891230"
+    },
+    {
+      "id": 6,
+      "name": "Sarfaraz",
+      "city": "Bengaluru",
+      "mobile": "1234567899"
+    },
+    {
+      "id": 7,
+      "name": "Nazia",
+      "city": "Hyderbad",
+      "mobile": "0987456321"
+    },
+    {
+      "id": 8,
+      "name": "Taniya",
+      "city": "Manugur",
+      "mobile": "0784512369"
+    },
+    {
+      "id": 9,
+      "name": "Shazia Sulthana",
+      "city": "Hubli",
+      "mobile": "04567891230"
+    },
+    {
+      "id": 10,
+      "name": "Tasmiya",
+      "city": "Vijayawada",
+      "mobile": "07417417410"
+    },
+    {
+      "id": 11,
+      "name": "",
+      "city": "",
+      "mobile": ""
+    }
+  ]
+}
